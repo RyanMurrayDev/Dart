@@ -1,0 +1,3 @@
+enum GameState {
+  ongoing, stopped
+}
